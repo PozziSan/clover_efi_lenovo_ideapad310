@@ -1,0 +1,1 @@
+# clover_efi_lenovo_ideapad320
